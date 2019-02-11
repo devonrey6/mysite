@@ -1,0 +1,15 @@
+{
+  "name": "sass-portfolio",
+  "version": "1.0.0",
+  "description": "sass portfolio",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://devonrey6.github.io/mySASS",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
