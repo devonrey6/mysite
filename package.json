@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://devonrey6.github.io/mySASS",
+  "homepage": "https://devonrey6.github.io/mysite",
   "dependencies": {
     "node-sass": "^4.11.0"
   }
